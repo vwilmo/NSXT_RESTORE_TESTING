@@ -1,6 +1,7 @@
 #Defines variables for a NSXT Tier-1 Gateway and a NSXT Segment
 $NSXTUSER="admin"
 $NSXTPASSWORD="VMware1!VMware1!"
+$NSXTMGRIP="192.168.0.107"
 $NSXT_TIER1="T1-02a"
 $NSXT_SEGMENT="nsxt-restore-segment"
 $NSXT_GWADDR="1.1.1.1/24"
